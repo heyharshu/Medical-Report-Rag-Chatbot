@@ -88,9 +88,9 @@ An AI-powered **Medical Report Chatbot** built using **Retrieval-Augmented Gener
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/heyharshu/medical-report-rag-chatbot.git
+git clone https://github.com/heyharshu/Medical-Report-Rag-Chatbot.git
 
-cd medical-report-rag-chatbot
+cd Medical-Report-Rag-Chatbot
 ```
 
 ---
