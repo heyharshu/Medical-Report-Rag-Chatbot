@@ -1,0 +1,41 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+
+# ChromaDB
+chroma_db/
+
+# Uploaded files
+uploads/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules (if frontend is in same repo)
+node_modules/
+
+# Build folders
+dist/
+build/
+
+# Coverage
+.coverage
+htmlcov/
